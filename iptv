@@ -1,0 +1,7 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7FX7zP6.png" group-title="OZI CANAIS",Meus Canais
+https://ythls.onrender.com/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/7FX7zP6.png" group-title="TV ABERTA",SBT HD
+http://evpp.mm.uol.com.br/ne10/ne10.smil/playlist.m3u8
